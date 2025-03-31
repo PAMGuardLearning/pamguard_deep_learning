@@ -10,6 +10,8 @@ This tutorial is a step by step guide to on how to run deep learning models in P
 - Northern white-cheeked gibbon (Nomascus leucogenys)
 
 ## What you will learn
+
+![right_whale_pamguard](https://github.com/user-attachments/assets/27f3ad0e-5539-4337-aab9-81d97fb91283)
 ### Section 1 - Right whales
 In section 1, you will be shown how to process raw low frequency sound files to detect North Atlantic Right whale upsweeps using a deep learning model developed by Shiu et al, (2020). This model was trained on a widely available dataset used to test automated classifiers for right whales and was a significant improvement on previous methods. The end of the tutorial compares the deep learning model against a more heuristic Right whale classifier built into PAMGuard. Users will also learn how to export deep learning detections to MATLAB, R and wav files.
 
