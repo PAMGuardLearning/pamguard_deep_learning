@@ -1,4 +1,4 @@
-#Deep Learning in PAMGuard
+# Deep Learning in PAMGuard Tutorial
 
 ## Introduction
 This tutorial is a step by step guide to on how to run deep learning models in PAMGuard. The tutorial takes users through how to set up a configuration, process data and classify to species using three examples, North Atlantic Right whales, bats in Denmark and gibbons in Laos.
